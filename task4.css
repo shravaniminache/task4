@@ -1,0 +1,259 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.main {
+  width: 100%;
+  height: 200%;
+  background-color: rgb(201, 88, 88);
+  /* background-image: url(img1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: aliceblue; */
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  margin-left: auto;
+  height: 90px;
+  align-items: center;
+
+}
+
+.main2 {
+  width: 100%;
+  display: flex;
+  /* background-image: url(img1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: aliceblue; */
+}
+
+/* .bgimg{width:100%;
+  height: 200%;
+   background-image: url(img1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: aliceblue;} */
+.i {
+  margin-top: 10%;
+  margin-left: 20%;
+  align-items: center;
+}
+
+.l {
+  margin-top: 10%;
+}
+
+.l p {
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+
+.lefty {
+  height: 90%;
+
+  /* border: solid 6px; */
+  display: flex;
+  justify-items: space-around;
+  gap: 30px;
+  margin-left: -40%;
+}
+
+.btn {
+  margin-left: 25px;
+  margin-top: 20px;
+}
+
+.alumini {
+  width: 100%;
+  height: 90vh;
+  /* border: 1px solid black; */
+  display: flex;
+  justify-content: space-evenly;
+  padding: 11px;
+}
+
+.cards {
+  width: 90%;
+  height: 60vh;
+  /* border: 1px solid rgb(210, 22, 22); */
+  display: flex;
+}
+
+.b1 {
+  width: 90%;
+  height: 60vh;
+  /* /* border: 1px solid rgb(225, 18, 18); */
+}
+
+.icard img {
+  width: 105%;
+  height: 35vh;
+  /* border: 1px solid rgb(40, 80, 244); */
+}
+
+.t1 {
+  width: 100%;
+  height: 5vh;
+  /* border: 1px solid rgb(219, 119, 19); */
+  align-content: center;
+  align-self: center;
+  text-align: center;
+}
+
+.th {
+  width: 100%;
+  height: 5vh;
+  /* border: 1px solid rgb(19, 219, 189); */
+  align-content: center;
+  align-self: center;
+  font-size: large;
+  color: rgb(96, 97, 98)
+}
+
+.de {
+  width: 100%;
+  height: 12vh;
+  /* border: 1px solid rgb(200, 236, 54); */
+  align-content: center;
+  align-self: center;
+}
+
+.buttons {
+  width: 80%;
+  height: 5vh;
+  margin-left: 25px;
+}
+
+.pro {
+  width: 100%;
+  height: 90vh;
+  /* border: 1px solid black; */
+  display: flex;
+  justify-content: space-evenly;
+  padding: 11px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.pro {
+  display: flex;
+}
+
+.first4 {
+  width: 100%;
+  height: 42vh;
+  /* border: 1px solid rgb(36, 35, 36); */
+  padding: 2px;
+  display: flex;
+}
+
+.second4 {
+  width: 100%;
+  height: 42vh;
+  /* border: 1px solid rgb(36, 35, 36); */
+  padding: 2px;
+  display: flex;
+}
+
+.house {
+  width: 40%;
+  height: 38vh;
+  /* border: 1px solid rgb(244, 24, 174); */
+  padding: 2px;
+
+}
+
+.ipro img {
+  width: 100%;
+  height: 37vh;
+  /* border: 1px solid rgb(40, 80, 244);  */
+}
+
+.about {
+  margin-top: 3%;
+  font-size: xx-large;
+  margin-bottom: 1%;
+}
+
+.lp {
+  margin-top: 2%;
+  margin-bottom: 2%;
+  justify-content: center;
+  font-size: large;
+}
+
+.slast {
+  font-size: xx-large;
+  margin-top: -3%;
+  margin-bottom: 2%;
+  /* padding-bottom: 2px; */
+}
+
+input {
+  width: 98%;
+  height: 38px;
+  margin-top: 1%;
+  font-size: large;
+  justify-content: space-between;
+  margin-left: 10%;
+  margin-right: 20%;
+}
+
+/* .input msg {
+  width: 100%;
+  height: 40%;
+  background-color: black;
+} */
+
+.lastimg {
+  /* width: 100%;
+  height: 42vh;
+  border: 1px solid rgb(36, 35, 36);
+  padding: 2px; */
+  margin-top: 10%;
+}
+
+.lastimg img {
+  width: 100%;
+  height: 100vh;
+  /* margin-left: %; */
+  justify-items: center;
+}
+
+.sm {
+  width: 18%;
+  height: 5vh;
+  margin-top: 1%;
+  background-color: black;
+  color: aliceblue;
+}
+
+.lastbar {
+  width: 100%;
+  height: 20vh;
+  border: 2px solid rgb(36, 35, 36);
+  padding: 2px;
+  margin-top: 1%;
+  background-color: black;
+  /* text color: #f0e8e8; */
+  font-size: large;
+  /* justify-content: center; */
+  /* margin-left: 10%; */
+  align-content: center;
+  padding-left: 50%;
+}
+
+.lastbar a{
+  color: white;
+}
+.last{
+  justify-content: center;
+  margin-left: 5%;
+  margin-right: 5%;
+}
